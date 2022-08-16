@@ -1,5 +1,5 @@
-file{'/Documents/testfile':
+file{'/root/Documents/testfile':
 
-content=> 'This is new file'
+content=> 'This is a new file'
 
 }
